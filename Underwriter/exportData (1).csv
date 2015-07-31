@@ -1,0 +1,7 @@
+"ID","Carrier","PolicyType","SMinCovA","UMinCovA","NMinCovA","SMaxCovA","UMaxCovA","NMaxCovA",
+"2","American Integrity","H03","100000","50000","Cannot be below 50k","1000000","2000000","Cannot go over 2m",
+"3","Cypress","H03","10000","100","Blah","100000","1000000","Cannot go over 1m",
+"4","Cypress","H06","10000","100","blah blah","1000000","5000000","cannot go over 5m",
+"6","test","",,,,,,,
+"7","wrong","",,,,,,,
+"8","",,,,,,,,
